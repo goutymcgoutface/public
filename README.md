@@ -72,6 +72,7 @@ TBC -- I imagine regression analysis of some description.
 * What's the timeline for metabolising purines to uric acid?
 * Is there any value in being genetically screened for the particular mutation? (If you had this though, what would you do with the knowledge?) 
 * Probability of your rheumatologist having kittens when he finds out you've blatantly ignored his advice = high. Is what's being proposed here sufficient for him to write up as a letter to a journal? (probably not sufficient for a paper with a single subject...) Can I find out somehow if he is active in research?
+* That thing about soaking paws in hot water to dissolve uric acid crystals... hogwash, yes? Ask Big C. 
 
 # Coda -- philosophy behind this approach
 
