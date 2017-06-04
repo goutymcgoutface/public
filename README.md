@@ -1,5 +1,5 @@
-Gouty McGoutface: Smiling at the face of excess uric acid
-=========================================================
+Gouty McGoutface: Smiling at the face of excess uric acid production
+====================================================================
 
 # Introduction & Background
 I've recently been diagnosed with [gout](https://en.wikipedia.org/wiki/Gout), at the tender age (at time of writing) of ~35. Following inspiration from [this post](https://github.com/arielf/weight-loss) regarding the use of [Vowpal wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) to, in essence, use regression to understand the impact of diet and lifestyle on weight loss, I plan to adapt it to understand the impact of diet and lifestyle choices on my uric acid levels, the seemingly determinant factor in suffering from gout. 
@@ -11,7 +11,7 @@ Chances are, if you're reading this, I've asked you to, coz you are well smart, 
 * do **not** pull any punches: great feedback is clear, not mean. Feel free to tear apart as required from an academic critique perspective
 * ... and no, I couldn't find the spellcheck
 
-## Initalisation -- About me & this project
+## Initialisation -- About me & this project
 ### Me
 * White male, born early 1980's
 * History of gout on the paternal side
