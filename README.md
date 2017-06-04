@@ -1,3 +1,6 @@
+Gouty McGoutface
+================
+
 # Introduction & Background
 I've recently been diagnosed with [gout](https://en.wikipedia.org/wiki/Gout), at the tender age (at time of writing) of ~35. Following inspiration from [this post](https://github.com/arielf/weight-loss) regarding the use of [Vowpal wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) to, in essence, use regression to understand the impact of diet and lifestyle on weight loss, I plan to adapt it to understand the impact of diet and lifestyle choices on my uric acid levels, the seemingly determinant factor in suffering from gout. 
 
@@ -73,7 +76,9 @@ More than likely, yes.
 
 However, the ultimate issue in events like this is the lack of agency over one's predicament: The analogy that springs to mind is that of the athlete who retires on the treatment table due to injury, as opposed to taking their leave from the field of play of their own volition. 
 
-At least by undertaking the above, as hare-brained as it might appear, is that at least it *feels* like I am doing to something to control the outcome, and not simply being done unto. Further, as everyone's gout appears to be different, I will develop a better understanding of how mine operates. 
+At least by undertaking the above, as hare-brained as it might appear, is that at least it *feels* like I am doing to something to control the outcome, and not simply being done unto, and that hopefully I can manifest change. Further, as everyone's gout appears to be different, I will develop a better understanding of how mine operates. 
+
+***
 
 # References
 * The main weight loss article using Vowpal Wabbit: [https://github.com/arielf/weight-loss](https://github.com/arielf/weight-loss)
