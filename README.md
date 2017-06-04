@@ -20,7 +20,7 @@ Chances are, if you're reading this, I've asked you to, coz you are well smart, 
 At time of writing, I've experienced three acute gout attacks:
 
 1. 2012: Following running. 
-2. 2106: Following _barefoot_ running. (There was an issue getting the Vibrams onto my right foot, where I bent the right "ring" toe underneath the foot, effectively trapping it in the shoe, and then having to stand on it. Following walking on this foot awkwardly over the following days, this seemed to induce an acute gout response)
+2. 2106: Following _barefoot_ running. (There was an issue getting the [Vibrams](https://www.vibrams.co.uk/) onto my right foot, where I bent the right "ring" toe underneath the foot, effectively trapping it in the shoe, and then having to stand on it. Following walking on this foot awkwardly over the following days, this seemed to induce an acute gout response)
 3. 2017: Eating three meals consisting of seafood in succession:
     * Sushi, and two glasses of red wine -- note that I was mostly teetotal for ~6weeks prior to this point
     * Crayfish salad
