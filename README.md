@@ -1,12 +1,12 @@
-Gouty McGoutface: Smiling into the face of excess uric acid
-===========================================================
+Gouty McGoutface: Smiling at the face of excess uric acid
+=========================================================
 
 # Introduction & Background
 I've recently been diagnosed with [gout](https://en.wikipedia.org/wiki/Gout), at the tender age (at time of writing) of ~35. Following inspiration from [this post](https://github.com/arielf/weight-loss) regarding the use of [Vowpal wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) to, in essence, use regression to understand the impact of diet and lifestyle on weight loss, I plan to adapt it to understand the impact of diet and lifestyle choices on my uric acid levels, the seemingly determinant factor in suffering from gout. 
 
 ## Caveats & nota bene
 
-Chances are, if you're reading this, I've asked you to, coz you are well smart, innit, and I value your thoughts and input on situation, bosh. As such, please:
+Chances are, if you're reading this, I've asked you to, coz you are well smart, innit, and I value your thoughts and input on the situation, bosh. As such, please:
 * bring your A-game
 * do **not** pull any punches: great feedback is clear, not mean. Feel free to tear apart as required from an academic critique perspective. 
 
@@ -43,7 +43,7 @@ The plan, in short, is to (a) go get data, and (b) work out what impacts my pers
 
 ### Gather baseline data
 
-* Gather 30 days' worth of readings: Take daily uric acid readings at 9.30am local time. 
+* Gather 30 days' worth of readings: Take daily uric acid readings at 9.30am local time. Main point here is to understand any potential variability in readings. 
 * Maintain diet of items considered to be *safe* -- i.e. avoid bloody crayfish...
 * Data to track: 
     * Liquid consumed, type and amount
@@ -58,6 +58,7 @@ The plan, in short, is to (a) go get data, and (b) work out what impacts my pers
 * Sleep: Use a FitBit to track amount of time asleep. 
 * Environmental info -- temperature and humidity: (Remain unconvinced this is necessary) Find a website to show average daily temperature and humidity, and track
 * Activity -- maybe?
+* Thought -- the error term could be particularly interesting... How much uric acid change is due to factors not measured?
 
 ## Analysis
 
