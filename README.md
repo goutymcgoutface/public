@@ -1,4 +1,4 @@
-Gouty McGoutface: Smiling at the face of excess uric acid production
+Gouty McGoutface: Laughing in the face of excess uric acid production
 ====================================================================
 
 # Introduction & Background
