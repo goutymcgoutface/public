@@ -19,12 +19,14 @@ Chances are, if you're reading this, I've asked you to, coz you are well smart, 
 ### Disease history
 At time of writing, I've experienced three acute gout attacks:
 
-1. 2012: Following running. 
-2. 2106: Following _barefoot_ running. (There was an issue getting the [Vibrams](https://www.vibrams.co.uk/) onto my right foot, where I bent the right "ring" toe underneath the foot, effectively trapping it in the shoe, and then having to stand on it. Following walking on this foot awkwardly over the following days, this seemed to induce an acute gout response)
-3. 2017: Eating three meals consisting of seafood in succession:
+1. 2012: Following running, in the right big toe. 
+2. 2106: Following _barefoot_ running. (There was an issue getting the [Vibrams](https://www.vibrams.co.uk/) onto my right foot, where I bent the right "ring" toe underneath the foot, effectively trapping it in the shoe, and then having to stand on it. Following walking on this foot awkwardly over the following days, this seemed to induce an acute gout response in the right big toe)
+3. 2017: Eating three meals consisting of seafood in succession, in the left big toe, to mix things up slightly...:
     * Sushi, and two glasses of red wine -- note that I was mostly teetotal for ~6weeks prior to this point
     * Crayfish salad
     * Haddock
+
+During the very tail end of May-2017, considering there could be a gout response in my left thumb, but not an acute flare-up -- more of a general stiffness (e.g. articulating a fork to eat with not straightforwards, grabbing an irregular shaped object -- imagine a bag of sand -- not easy). 
 
 ### Diagnosis & pharmacotherapy
 
