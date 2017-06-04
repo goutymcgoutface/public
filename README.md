@@ -8,7 +8,8 @@ I've recently been diagnosed with [gout](https://en.wikipedia.org/wiki/Gout), at
 
 Chances are, if you're reading this, I've asked you to, coz you are well smart, innit, and I value your thoughts and input on the situation, bosh. As such, please:
 * bring your A-game
-* do **not** pull any punches: great feedback is clear, not mean. Feel free to tear apart as required from an academic critique perspective. 
+* do **not** pull any punches: great feedback is clear, not mean. Feel free to tear apart as required from an academic critique perspective
+* ... and no, I couldn't find the spellcheck
 
 ## Initalisation -- About me & this project
 ### Me
@@ -68,6 +69,7 @@ TBC -- I imagine regression analysis of some description.
 * How will regression deal with potential time delay of change in uric acid levels? E.g. imagine that one beer is drunk on day 1, but the resulting change in uric acid occurs on day 4. (Ask RowChief about this)
 * What's the timeline for metabolising purines to uric acid?
 * Is there any value in being genetically screened for the particular mutation? (If you had this though, what would you do with the knowledge?) 
+* Probability of your rheumatologist having kittens when he finds out you've blatantly ignored his advice = high. Is what's being proposed here sufficient for him to write up as a letter to a journal? (probably not sufficient for a paper with a single subject...) Can I find out somehow if he is active in research?
 
 # Coda -- philosophy behind this approach
 
