@@ -1,11 +1,11 @@
 # Introduction & Background
-I've recently been diagnosed with [gout](https://en.wikipedia.org/wiki/Gout), at the tender age (at time of writing) of ~35. Following inspiration from [this post](https://github.com/arielf/weight-loss) regarding the use of [Vowpal wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) to, in essence, use regression to understand the impact of diet and lifestyle on weightloss, I plan to adapt it to understand the impact of diet and lifestyle choices on my uric acid levels, the seemingly determinant factor in suffering from gout. 
+I've recently been diagnosed with [gout](https://en.wikipedia.org/wiki/Gout), at the tender age (at time of writing) of ~35. Following inspiration from [this post](https://github.com/arielf/weight-loss) regarding the use of [Vowpal wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) to, in essence, use regression to understand the impact of diet and lifestyle on weight loss, I plan to adapt it to understand the impact of diet and lifestyle choices on my uric acid levels, the seemingly determinant factor in suffering from gout. 
 
 ## Caveats & nota bene
 
-Chances are, if you're reading this, I've asked you to, coz you are well smart, innit, and I value your thoughhts and input on situation, bosh. As such, please:
+Chances are, if you're reading this, I've asked you to, coz you are well smart, innit, and I value your thoughts and input on situation, bosh. As such, please:
 * bring your A-game
-* do **not** pull any punches: great feedback is clear, not mean. Feel free to tear apart as required from an academic critique persepective. 
+* do **not** pull any punches: great feedback is clear, not mean. Feel free to tear apart as required from an academic critique perspective. 
 
 ## Initalisation -- About me & this project
 ### Me
@@ -40,7 +40,7 @@ The plan, in short, is to (a) go get data, and (b) work out what impacts my pers
 
 ### Gather baseline data
 
-* Gather 30 days worth of readings: Take daily uric acid readings at 9.30am local time. 
+* Gather 30 days' worth of readings: Take daily uric acid readings at 9.30am local time. 
 * Maintain diet of items considered to be *safe* -- i.e. avoid bloody crayfish...
 * Data to track: 
     * Liquid consumed, type and amount
@@ -48,12 +48,12 @@ The plan, in short, is to (a) go get data, and (b) work out what impacts my pers
 
 ### Start playing with things :sunglasses:
 
-* Vary intake as per folklore, random ideas... What happens when I have a pint of beer? 
+* Vary intake as per folklore, random ideas... What happens when I have a pint of beer? (Potential thought: if beer is that bad for uric acid, maybe try a pint and watch for the uric acid spike?) 
 
 ### Other data points to collect (potentially)
 
 * Sleep: Use a FitBit to track amount of time asleep. 
-* Environmental info -- temperature and humidity: (Remain unconvinced this is unnecessary) Find a website to show average daily temperature and humidity, and track
+* Environmental info -- temperature and humidity: (Remain unconvinced this is necessary) Find a website to show average daily temperature and humidity, and track
 * Activity -- maybe?
 
 ## Analysis
@@ -73,7 +73,7 @@ More than likely, yes.
 
 However, the ultimate issue in events like this is the lack of agency over one's predicament: The analogy that springs to mind is that of the athlete who retires on the treatment table due to injury, as opposed to taking their leave from the field of play of their own volition. 
 
-At least by undertaking the above, as harebrained as it might appear, is that at least it *feels* like I am doing to something to control the outcome, and not simply being done unto. Further, as everyone's gout appears to be different, I will develop a better understanding of how mine operates. 
+At least by undertaking the above, as hare-brained as it might appear, is that at least it *feels* like I am doing to something to control the outcome, and not simply being done unto. Further, as everyone's gout appears to be different, I will develop a better understanding of how mine operates. 
 
 # References
 * The main weight loss article using Vowpal Wabbit: [https://github.com/arielf/weight-loss](https://github.com/arielf/weight-loss)
