@@ -1,5 +1,5 @@
-Gouty McGoutface
-================
+Gouty McGoutface: Smiling into the face of excess uric acid
+===========================================================
 
 # Introduction & Background
 I've recently been diagnosed with [gout](https://en.wikipedia.org/wiki/Gout), at the tender age (at time of writing) of ~35. Following inspiration from [this post](https://github.com/arielf/weight-loss) regarding the use of [Vowpal wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) to, in essence, use regression to understand the impact of diet and lifestyle on weight loss, I plan to adapt it to understand the impact of diet and lifestyle choices on my uric acid levels, the seemingly determinant factor in suffering from gout. 
