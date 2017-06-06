@@ -61,6 +61,7 @@ The plan, in short, is to (a) go get data, and (b) work out what impacts my pers
 * Sleep: Use a FitBit to track amount of time asleep. 
 * Environmental info -- temperature and humidity: (Remain unconvinced this is necessary) Find a website to show average daily temperature and humidity, and track
 * Activity -- maybe?
+* Heart rate: Any use as potential surrogate for stress, general health?
 * Thought -- the error term could be particularly interesting... How much uric acid change is due to factors not measured?
 
 ## Analysis
@@ -69,10 +70,11 @@ TBC -- I imagine regression analysis of some description.
 
 # Open loops
 * How will regression deal with potential time delay of change in uric acid levels? E.g. imagine that one beer is drunk on day 1, but the resulting change in uric acid occurs on day 4. (Ask RowChief about this)
+* Further, how to deal with interactions? -- red wine + sushi = ouchies? (RowChief again)
 * What's the timeline for metabolising purines to uric acid?
 * Is there any value in being genetically screened for the particular mutation? (If you had this though, what would you do with the knowledge?) 
 * Probability of your rheumatologist having kittens when he finds out you've blatantly ignored his advice = high. Is what's being proposed here sufficient for him to write up as a letter to a journal? (probably not sufficient for a paper with a single subject...) Can I find out somehow if he is active in research?
-* That thing about soaking paws in hot water to dissolve uric acid crystals... hogwash, yes? Ask Big C. 
+* That thing about soaking paws in hot water to dissolve uric acid crystals... hogwash, yes? (Ask BigC) 
 
 # Coda -- philosophy behind this approach
 
