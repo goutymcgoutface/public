@@ -91,3 +91,4 @@ At least by undertaking the above, as hare-brained as it might appear, is that a
 # References
 * The main weight loss article using Vowpal Wabbit: [https://github.com/arielf/weight-loss](https://github.com/arielf/weight-loss)
 * The article reviewing uric acid monitors: [https://www.smithbiomed.com/wp-content/uploads/2015/09/Uric-acid-meters-poster.pdf](https://www.smithbiomed.com/wp-content/uploads/2015/09/Uric-acid-meters-poster.pdf)
+* This paper looks useful, [Regulation of uric acid metabolism and excretion](http://www.sciencedirect.com/science/article/pii/S0167527315303429)
